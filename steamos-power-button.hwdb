@@ -1,5 +1,13 @@
 # This is the "AT Translated Set 2 keyboard" the BIOS uses to convey power button presses
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnValve:*
+# ASUS Rog Ally
+evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC71L:*
+# ASUS Rog Ally X
+evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC72LA:*
+# Lenovo Legion Go
+evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83E1:*
+evdev:name:Power Button:dmi:*svnLENOVO:pn83E1:*
+# Lenovo Legion Go S
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83L3:*
 evdev:name:Power Button:dmi:*svnLENOVO:pn83L3:*
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83N6:*
