@@ -16,4 +16,6 @@ evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83Q2:*
 evdev:name:Power Button:dmi:*svnLENOVO:pn83Q2:*
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83Q3:*
 evdev:name:Power Button:dmi:*svnLENOVO:pn83Q3:*
+# ZOTAC Gaming Zone
+evdev:name:Power Button:dmi:*svnZOTAC:*rnG0A1W:*
  STEAMOS_POWER_BUTTON=1
