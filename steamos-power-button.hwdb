@@ -26,11 +26,8 @@ evdev:name:Power Button:dmi:*svnLENOVO:pn83Q2:*
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnLENOVO:pn83Q3:*
 evdev:name:Power Button:dmi:*svnLENOVO:pn83Q3:*
 # MSI
-evdev:name:AT Translated Set 2 keyboard:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClawA1M:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClawA1M:*
-evdev:name:AT Translated Set 2 keyboard:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw7AI+A2VM:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw7AI+A2VM:*
-evdev:name:AT Translated Set 2 keyboard:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw8AI+A2VM:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw8AI+A2VM:*
 # ONEXPLAYER
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnONE-NETBOOK:*
