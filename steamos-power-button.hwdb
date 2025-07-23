@@ -31,6 +31,7 @@ evdev:name:Power Button:dmi:*svnLENOVO:pn83Q3:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClawA1M:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw7AI+A2VM:*
 evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClaw8AI+A2VM:*
+evdev:name:Power Button:dmi:*svnMicro-StarInternationalCo.,Ltd.:pnClawA8BZ2EM:*
 # ONEXPLAYER
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnONE-NETBOOK:*
 evdev:name:Power Button:dmi:*svnONE-NETBOOK:*
