@@ -1,10 +1,10 @@
 # This is the "AT Translated Set 2 keyboard" the BIOS uses to convey power button presses
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnValve:*
-# ASUS Rog Ally
+# ASUS ROG Ally
 evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC71L:*
-# ASUS Rog Ally X
+# ASUS ROG Ally X
 evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC72LA:*
-# ASUS Rog Flow Z13 (2025)
+# ASUS ROG Flow Z13 (2025)
 evdev:name:gpio-keys:dmi:*svnASUSTeKCOMPUTERINC.:*rnGZ302EA:*
 # AYANEO
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnAYANEO:*
