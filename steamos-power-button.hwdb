@@ -1,5 +1,3 @@
-# This is the "AT Translated Set 2 keyboard" the BIOS uses to convey power button presses
-evdev:name:AT Translated Set 2 keyboard:dmi:*svnValve:*
 # ASUS ROG Ally
 evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC71L:*
 # ASUS ROG Ally X
@@ -43,6 +41,8 @@ evdev:name:Power Button:dmi:*svnONE-NETBOOK:*
 # OrangePi
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnOrangePi:*
 evdev:name:Power Button:dmi:*svnOrangePi:*
+# Steam Deck
+evdev:name:AT Translated Set 2 keyboard:dmi:*svnValve:*
 # ZOTAC Gaming Zone
 evdev:name:Power Button:dmi:*svnZOTAC:*rnG0A1W:*
  STEAMOS_POWER_BUTTON=1
