@@ -4,6 +4,8 @@ evdev:name:AT Translated Set 2 keyboard:dmi:*svnValve:*
 evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC71L:*
 # ASUS Rog Ally X
 evdev:name:Power Button:dmi:*svnASUSTeKCOMPUTERINC.:*rnRC72LA:*
+# ASUS Rog Flow Z13 (2025)
+evdev:name:gpio-keys:dmi:*svnASUSTeKCOMPUTERINC.:*rnGZ302EA:*
 # AYANEO
 evdev:name:AT Translated Set 2 keyboard:dmi:*svnAYANEO:*
 evdev:name:Power Button:dmi:*svnAYANEO:*
